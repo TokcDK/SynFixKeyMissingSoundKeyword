@@ -1,0 +1,9 @@
+{
+  "Nickname": "",
+  "Visibility": "Visible",
+  "OneLineDescription": "Add missing sound and vendor keyword to keys",
+  "LongDescription": "Check keys for missing pickup/putdown sounds or missing vendor keyword and add when need",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": []
+}
